@@ -23,7 +23,7 @@ As a cishet white dude, I freely acknowledge that I'm the least qualified to tal
 
 ## Transportation
 
-You don't have to be in a city like Atlanta or Los Angeles that has far more international connections than I can count, but it is helpful to be in a city with an airport with at least connections to most nearby hubs. The US doesn't have viable regional passenger rail outside of the Northeast Corridor and scattered bits on the Pacific coast, as much as I'd like for that to be different, so let's face it; 90%+ of attendees are going to be flying in.
+You don't have to be in a city like Atlanta or Los Angeles that has far more international connections than I can count, but it is helpful to be in a city with an airport with at least connections to most nearby hubs. The US doesn't have viable regional passenger rail outside of the Northeast Corridor and scattered bits on the Pacific coast, as much as I'd like for that to be different, so let's face it: 90%+ of attendees are going to be flying in.
 
 Having a hotel that has its own airport shuttle is a major win. It makes things so much easier on attendees if they don't have to immediately try to wait 30+ minutes for a taxi-type service or navigate a new city's mass transit system.
 
