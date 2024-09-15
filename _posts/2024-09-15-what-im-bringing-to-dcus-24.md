@@ -10,7 +10,7 @@ Anyway, a few years ago, I wrote a [list of suggestions](https://2019.djangocon.
 For reference, I'm driving to the conference for three reasons:
 - I can bring my own bike without having to pack it up and risk airlines damaging it
 - Because I live close to an extremely small airport, the difference in travel time is minimal door-to-door (9-9.5 hours driving vs 7.5 hours of flying/connecting/finding an uber to the hotel/waiting for TSA/etc.)
-- My grandmother lives outside Asheville, NC, and it's about a 20 minute detour to see her and break the return trip up into two days. I did this on both legs last year and it happened to be the last time I saw my grandfather (he died of COVID shortly after Valentine's Day this year).
+- My grandmother lives outside Asheville, NC, and it's about a 20 minute detour to see her and break the return trip up into two days. I did this on both legs last year and it happened to be the last time I saw my grandfather (he died of COVID shortly after Valentine's Day this year). I'm taking the drive from AL to NC in one day because I need to wait until after my kid's soccer game Saturday morning to head out and I need to be in Durham Sunday morning for tutorials. This makes me sad that I'm going to miss the [BPD Summit](https://2024.djangocon.us/news/black-python-devs/) though.
 
 I'm going to split this list into a few groups with varying degrees of relevance to you, the theoretical general attendee. My plan is to arrive on Sunday and depart on Thursday.
 
