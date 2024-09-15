@@ -28,7 +28,7 @@ Here's the part that's probably easiest to translate to a general attendee.
 
 ## Non-tech stuff
 
-1. T-shirts. I am not a formal person. I might brng one polo shirt just in case, but I live in T-shirts 95% of the time and this conference should be no exception. I'll probably bring about 1.5 shirts for each day to allow for changes between the talks and dinners since I'll be doing a lot of walking around chasing people as an organizer. The conference center hallway can get a little warm when everyone's in there, but I don't remember the ballrooms being particularly warm or cold
+1. T-shirts. I am not a formal person. I might bring one polo shirt just in case, but I live in T-shirts 95% of the time and this conference should be no exception. I'll probably bring about 1.5 shirts for each day to allow for changes between the talks and dinners since I'll be doing a lot of walking around chasing people as an organizer. The conference center hallway can get a little warm when everyone's in there, but I don't remember the ballrooms being particularly warm or cold
 2. Shorts. The current forecast has highs in the upper 70s Fahrenheit (mid-to-upper 20s Celsius) and I'm a warm-natured person. I'll probably bring 3-4 pairs of khaki shorts and another 2-3 pairs of gym shorts.
 3. Sunglasses. I live in them.
 4. Underwear. Your needs will vary here, for what should be obvious reasons.
