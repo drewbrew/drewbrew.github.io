@@ -3,7 +3,7 @@ title: "What makes a good DjangoCon US keynote"
 published: true
 ---
 
-[DjangoCon US 2024](https://2024.djangocon.us/) is wrapping up today. I'll have a more detailed retrospective... eventually.
+[DjangoCon US 2024](https://2024.djangocon.us/) is in the proverbial books. I'll have a more detailed retrospective... eventually.
 
 At the speaker appreciation dinner, a frequent speaker approached me asking what I think makes a good keynote for DCUS. It really inspired me to think more about what I think makes a good keynote. This is not intended to be a comprehensive how-to-make-a-keynote guide, but rather my own personal preferences, which matter less now that I'm stepping aside as Program Chair. After 4 years, it's time to let someone else take the reins.
 
