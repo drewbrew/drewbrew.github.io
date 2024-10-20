@@ -20,7 +20,7 @@ In my mind, good keynotes fall into one of a few buckets:
 
 ### Deep dives
 
-These can be a look deep into what happens in Django, whether it be the ORM, views, forms, [testing](https://2017.djangocon.us/talks/keynote-2/), etc., or a deep look at how something happens in the ecosystem, such as managing [GitHub workflows in CPython](https://2018.djangocon.us/talk/keynote-with-mariatta-wijaya/), Natalia's excellent 2024 keynote. Do you have some part of Django that you think is really awesome and you wish the world knew more about how it works? Here's your chance.
+These can be a look deep into what happens in Django, whether it be the ORM, views, forms, [testing](https://2017.djangocon.us/talks/keynote-2/), etc., or a deep look at how something happens in the ecosystem, such as managing [GitHub workflows in CPython](https://2018.djangocon.us/talk/keynote-with-mariatta-wijaya/), Natalia's [excellent 2024 keynote](https://2024.djangocon.us/talks/keynote-wednesday/). Do you have some part of Django that you think is really awesome and you wish the world knew more about how it works? Here's your chance.
 
 ### Self-improvement
 
@@ -29,7 +29,7 @@ How do we as developers make ourselves better, not just as developers, not just 
 
 ### Community growth and mentorship
 
-As our 2024 panel phrased it, the community strives to be open, friendly, and welcoming. How do we spread this to more places and people? The people are what makes Django great, and we need to find ways to reponsibly and sustainably grow the community, both in the US and worldwide.
+As our [2024 panel](https://2024.djangocon.us/talks/panel-discussion-mentoring-django/) phrased it, the community strives to be open, friendly, and welcoming. How do we spread this to more places and people? The people are what makes Django great, and we need to find ways to reponsibly and sustainably grow the community, both in the US and worldwide.
 
 A few examples:
 - [Matt Mitchell in 2019](https://2019.djangocon.us/talk/keynote-matt-mitchelln/)
