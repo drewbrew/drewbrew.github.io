@@ -108,7 +108,7 @@ There are a few possible tracks I could see here:
 - Can you be sure that using such models won't lead to embarassing results, like [racially diverse Nazis](https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical), which while well-intentioned, shows how even big players can get things horribly wrong?
 - Can you get your project to be more than either a glorified party trick that gets obvious details very wrong[1] or a form letter generator?
 
-[1] An important feature of charcoal grills is that they keep the fire [inside the grill](https://www.bing.com/images/create/a-chef-standing-on-the-edge-of-a-volcano-cooking-a/1-65e1dbf886c845ea92f4018d53a94880?id=DtAxxKK0NZu2dCkz5R6dSw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.B4QPksiUZHE7pmAFL0Dl&frame=sydedg&FORM=SYDBIC), DALL-E.
+[1] If you're making an infographic about [ACC schools](https://theacc.com/), it's important that you don't [invent schools](/static/assets/blog/acc-schools.jpg), Gemini.
 
 ## Personal growth: how the community helped you in some way and you'd like to pay it forward
 
