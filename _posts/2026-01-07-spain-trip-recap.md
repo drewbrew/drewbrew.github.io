@@ -221,18 +221,19 @@ Yep, it's still the same tourist trap hellhole that I remember. At least the roa
 
 ## Step counts
 
-| Day | Count |
-| Dec 21 | 6,508 |
-| Dec 22 | 13,889 |
-| Dec 23 | 12,170 |
-| Dec 24 | 18,118 |
-| Dec 25 | 16,749 |
-| Dec 26 | 18,695 |
-| Dec 27 (travel day) | 8,282 |
-| Dec 28 | 13,794 |
+| Day                 | Count  |
+| ------------------- | -----: |
+| Dec 21              | 6,508  |
+| Dec 22              | 13,889 |
+| Dec 23              | 12,170 |
+| Dec 24              | 18,118 |
+| Dec 25              | 16,749 |
+| Dec 26              | 18,695 |
+| Dec 27 (travel day) | 8,282  |
+| Dec 28              | 13,794 |
 | Dec 29 (travel day) | 11,191 |
-| Dec 30 (bike day) | 6,999 |
-| Dec 31 | 11,930 |
+| Dec 30 (bike day)   | 6,999  |
+| Dec 31              | 11,930 |
 
 Just a little bit of walking!
 
